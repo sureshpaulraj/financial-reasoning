@@ -1,0 +1,7 @@
+PyPDF2
+requests
+python-dotenv
+PyMuPDF
+tiktoken
+pydantic
+openai
